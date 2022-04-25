@@ -1,0 +1,13 @@
+body{
+    background-color: #22222A;
+    color: #EEE;
+    font-family: monospace;
+    font-size: 35px;
+    font-weight: bold;
+    height: 100vh;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
